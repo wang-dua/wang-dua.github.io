@@ -1,7 +1,6 @@
-# 臭宝贝迪
+# 应该算是正式开始了吧,现在是用markdown在写,想在这记录自己的一个学习历程,应该要更熟悉一下md的语法才行
 
-## 以后就可以在这上面写一些东西了!!
+[readme](README.md)
 
-##更改了 url 再来试一下
 
 [HTML](https://github.com/wang-dua/wang-dua.github.io/issues)
