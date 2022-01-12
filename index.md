@@ -180,9 +180,9 @@ div和span都是无语义标签
 女 <input type="radio" name="sex" value="woman">
 ```
 - maxlength 可指定文本框最大的字符长度
+
 ```
 <input type="text" name="username" value="请输入用户名" maxlength="6">
-
 ```
 #### select下拉表单元素
 
