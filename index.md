@@ -4,6 +4,8 @@
 现在是2022/1/12日14：31分，目前为止搭建博客的任务算是完成了
 
 没保存就没保存吧，就不写了没什么事。
+通过vscode编写markdown推送到github
+图片就上传到微博图床插入吧
 
 markdown还有好多东西要学呢，我发现这真是个好东西。
 ```
@@ -37,6 +39,7 @@ div和span都是无语义标签
 
 
 ## <a id="HTML超链接标签">HTML超链接标签 Day1</a>
+
  一般的语法格式为 &lt; a  href="跳转链接  target="跳转方式"&gt; &lt;/ a&gt; 跳转方式默认为_self 
 
 ### 一般分为
@@ -48,3 +51,5 @@ div和span都是无语义标签
  5. 网页元素的链接:网页中各种元素文本图像等都可以添加超链接
  6. 锚点链接 :`<a id="top"></a>` `<a href="#id">回到顶部</a>`即可
 
+### 常用的特殊字符
+![Snipaste_2022-01-12_14-39-12.png](http://tva1.sinaimg.cn/large/006wklZvly1gyavusfetuj30uc0deafo.jpg)
