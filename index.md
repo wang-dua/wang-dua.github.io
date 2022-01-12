@@ -63,6 +63,7 @@ div和span都是无语义标签
 
 - 不是为了布局，一般是展示一些小数据。table是最外层，tr表示行即table row ，td为列即table data
 - 为了明了的展示，表格一般分为thead和tbody，用thead表示表格头部标签，头部的单元格用th表示，表头即第一行会加粗
+
 ```
 <table>
     <thead>
@@ -80,11 +81,14 @@ div和span都是无语义标签
     </tbody>
 </table>
 ```
+
 - 表格的属性，平时较少用到，一般表格都是搭配css
 ![Snipaste_2022-01-12_15-11-38.png](http://tva1.sinaimg.cn/large/006wklZvly1gyaxf5amawj30vs097dkg.jpg)
 - 合并单元格
   - rowspan 跨行 colspan 跨列
   - 合并后再删除多余的单元格
+
+
 ```
 <tr>
     <td rowspan="2"></td>
