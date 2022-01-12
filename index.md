@@ -7,8 +7,10 @@
 通过vscode编写markdown推送到github
 图片就上传到微博图床插入吧
 
-markdown还有好多东西要学呢，我发现这真是个好东西。
+markdown还有好多东西要学呢，
 ```
+ <link rel="short icon" href="http://tva1.sinaimg.cn/thumbnail/006wklZvly1gyb2lfc7i9j34002zs7wj.jpg">
+ 
 <!-- 此为目录 -->
 - [超链接标签](#HTML超链接标签)
 - [表格标签](#HTML表格标签)
