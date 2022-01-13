@@ -186,11 +186,31 @@ div和span都是无语义标签
 ```
 <input type="text" name="username" value="请输入用户名" maxlength="6">
 ```
+
+#### label标签
+```
+当点击label标签内的文本时,浏览器自动将光标或焦点转移到对应的表单元素上,用来增加用户体验.
+例如单选框过于小不方便点击就可以添加label标签
+<label for="sex">女</label>
+<input type="radio" name="sex" value="woman" id="sex">
+
+```
+
+
 #### select下拉表单元素
-
-
-
-
-
+```
+可添加selected属性选中
+<select>
+    <option>选项1</option>
+    <option>选项2</option>
+    <option selected>选项3</option>
+</select>
+```
 
 #### textarea文本域表单元素
+```
+当输入内容过多时,需要用到文本域,例如留言评论等
+cols是每行的字数,rows即默认多少的行,通常很少用到
+后期大多搭配css使用
+<textarea name="" id="" cols="30" rows="10"></textarea>
+```
