@@ -1,1 +1,1 @@
-- [HTML标签](https://github.com/wang-dua/wang-dua.github.io/blob/main/html标签.md)
+- [HTML标签](https://github.com/wang-dua/wang-dua.github.io/blob/notes/html%20.md)
