@@ -9,6 +9,7 @@
 
 markdown还有好多东西要学呢，
 ```
+
  <link rel="short icon" href="http://tva1.sinaimg.cn/thumbnail/006wklZvly1gyb2lfc7i9j34002zs7wj.jpg">
  
 <!-- 此为目录 -->
